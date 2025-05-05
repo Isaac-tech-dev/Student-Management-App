@@ -10,6 +10,7 @@ import Toast from "react-native-toast-message";
 import AntDesign from "@expo/vector-icons/AntDesign";
 import Entypo from "@expo/vector-icons/Entypo";
 import Feather from "@expo/vector-icons/Feather";
+import React from "react";
 
 const Tab = createBottomTabNavigator();
 
